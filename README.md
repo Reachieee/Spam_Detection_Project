@@ -71,25 +71,33 @@ pip install -r requirements.txt
 ```
 
 ## How to Run
-GITHUB (Optional)
+**GITHUB (Optional)**
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Reachieee/Spam_Detection_Project.git
    ```
-
 2. **Switch to the main-project branch:**
    ```bash
-   git checkout main-project
+   git checkout main
    ```
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. **Open and run the notebook:**
+   - Open `Spam_Project_Final.ipynb` or `Best_Model.ipynb` in Jupyter Notebook or VS Code
+   - Run all cells to execute the complete pipeline
 -----------------------------------------------------------------------
-
+**Extract the zip file**
+1. **Open the file in Visual Studio Code workspace**
+2. **Run the terminal in the file directory**
 3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
-
 4. **Open and run the notebook:**
    - Open `Spam_Project_Final.ipynb` or `Best_Model.ipynb` in Jupyter Notebook or VS Code
+   - Select Kernel.
    - Run all cells to execute the complete pipeline
 
 ## Key Features
