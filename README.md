@@ -88,16 +88,21 @@ pip install -r requirements.txt
    - Open `Spam_Project_Final.ipynb` or `Best_Model.ipynb` in Jupyter Notebook or VS Code
    - Run all cells to execute the complete pipeline
 -----------------------------------------------------------------------
-**Extract the zip file**
-1. **Open the file in Visual Studio Code workspace**
-2. **Run the terminal in the file directory**
+**Zip file Run**
+1. **Extract the zip file**
+   - Unzip the project to preferred location
+2. **Open in VSCode or Visual Studio Code**
+   - Launch Visual Studio Code
+   - Open the extracted project folder as a workspace
+   - Run the terminal in extracted folder directory
 3. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 4. **Open and run the notebook:**
-   - Open `Spam_Project_Final.ipynb` or `Best_Model.ipynb` in Jupyter Notebook or VS Code
-   - Select Kernel.
+   - Open `Spam_Project_Final.ipynb` or `Best_Model.ipynb` in:
+      - Jupyter Notebook or VS Code (with Jupyter extension installed).
+   - Select Correct Python Kernel with one the indenpencies installed.
    - Run all cells to execute the complete pipeline
 
 ## Key Features
