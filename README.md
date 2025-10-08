@@ -71,17 +71,17 @@ pip install -r requirements.txt
 ```
 
 ## How to Run
-
+GITHUB (Optional)
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd Computing_Tech_Proj_Assignment
+   git clone https://github.com/Reachieee/Spam_Detection_Project.git
    ```
 
 2. **Switch to the main-project branch:**
    ```bash
    git checkout main-project
    ```
+-----------------------------------------------------------------------
 
 3. **Install dependencies:**
    ```bash
